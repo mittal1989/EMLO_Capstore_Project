@@ -156,12 +156,14 @@ k apply -f deployment.yaml
 
 ## Result Videos
 
-<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+- Prompt - " Who is the prime minister of India"
+https://github.com/mittal1989/EMLO_Capstore_Project/assets/74183819/5e5011d0-3c84-4c00-a905-98bda986711f
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 
-<video src='Images/Query1_Search.mp4' width=500/>
-<video src='Images/Query2_Image_generate.mp4' width=500/>
+
+- Prompt - " Generate an image of dog walking in the park"
+https://github.com/mittal1989/EMLO_Capstore_Project/assets/74183819/94b6f549-8ef1-4192-986f-6fcb21019160
+
 
 ## Group Members
 - Anurag Mittal
