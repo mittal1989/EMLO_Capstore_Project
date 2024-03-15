@@ -156,11 +156,12 @@ k apply -f deployment.yaml
 
 ## Result Videos
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
 
-<!-- <video src='Images/Query1_Search.mp4' width=180/> -->
+<video src='Images/Query1_Search.mp4' width=500/>
+<video src='Images/Query2_Image_generate.mp4' width=500/>
 
 ## Group Members
 - Anurag Mittal
