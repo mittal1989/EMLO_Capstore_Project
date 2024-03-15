@@ -1,6 +1,6 @@
-# Deployment of the multimodel inference graph using kserve
+# Introducing Felis V0 - LLM Chatbot
 
-Provide an base64 image to the model and it will do the classificition base on the multimodel inference graph
+An AI Agent with access to various tools and can perform generative ai tasks
 
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![torch](https://img.shields.io/badge/torch-1.12.0-orange)
