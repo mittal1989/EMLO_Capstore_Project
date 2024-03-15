@@ -1,0 +1,10 @@
+name: mixtral
+mmap: true
+parameters:
+  model: mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf
+template:
+  chat: mixtral-chat
+  completion: mixtral-completion
+context_size: 8192
+f16: true
+threads: 48

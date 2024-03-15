@@ -1,0 +1,17 @@
+apiVersion: "serving.kserve.io/v1beta1"
+kind: "InferenceService"
+metadata:
+  name: "emlo30"
+spec:
+  containers:
+    - name: localAI
+      image: public.ecr.aws/x5t0t2d9/localai:latest
+      ports:
+          - containerPort: 8080
+    - name: fastapi
+      image: public.ecr.aws/x5t0t2d9/fastapi:latest
+      ports:
+          - containerPort: 9080
+
+          
+          
